@@ -1,2 +1,0 @@
-# DesenvolvedorJava
-Curso do SENAI
